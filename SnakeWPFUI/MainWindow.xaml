@@ -8,7 +8,7 @@
             <RowDefinition Height="22*"></RowDefinition>
         </Grid.RowDefinitions>
         <Button x:Name="ButtonStart" Grid.Row="0"
-                Content="Начать"
+                Content="Zagraj"
                 HorizontalAlignment="Left"
                 Width="100"
                 FontFamily="Tahoma"
